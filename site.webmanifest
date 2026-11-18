@@ -1,0 +1,20 @@
+{
+  "name": "Теплий п’єц — Кав’ярня-музей",
+  "short_name": "Теплий п’єц",
+  "start_url": "/teplyi-piets/",
+  "display": "browser",
+  "background_color": "#F6EFE4",
+  "theme_color": "#1E1511",
+  "icons": [
+    {
+      "src": "assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
